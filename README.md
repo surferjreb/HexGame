@@ -1,0 +1,2 @@
+# HexGame
+A program to solve hexagon puzzle game.  The game board is in the shape of a hexagon with 7 positions to place a piece.  There are 7 game pieces, each numbered 1-6.  Each piece has a specific order the numbers are arranged.  The solution is found by matching the outer pieces to the center, then checking to see if the sides that the outer pieces match.  All have to match for a correct solution. 
